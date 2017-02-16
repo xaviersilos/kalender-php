@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<title>Verjaardagskalender</title>
-        <link href="../common/main.css" rel="stylesheet" type="text/css">
+        <link href="main.css" rel="stylesheet" type="text/css">
 	</head>
 	
 	<body>
