@@ -15,7 +15,7 @@ Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet 
 
 Het spel moet aan de volgende technische eisen voldoen:
 * De applicatie bestaat uit een werkend CRUD systeem (Create, Read, Update, Delete)
-* De appliatie is geschreven in een MVC Framework ([Framework-PHP](https://github.com/davinci-ao17/framework-php), [Codeigniter](https://codeigniter.com/), [Lumen](https://lumen.laravel.com/), [Phalcon PHP](https://phalconphp.com/nl/), [Laravel](https://laravel.com/), [Symfony](https://symfony.com/) etc)
+* De applicatie is geschreven in een MVC Framework ([Framework-PHP](https://github.com/davinci-ao17/framework-php), [Codeigniter](https://codeigniter.com/), [Lumen](https://lumen.laravel.com/), [Phalcon PHP](https://phalconphp.com/nl/), [Laravel](https://laravel.com/), [Symfony](https://symfony.com/) etc)
 
 
 
